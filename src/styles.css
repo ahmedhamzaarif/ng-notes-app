@@ -1,1 +1,13 @@
-/* You can add global styles to this file, and also import other style files */
+html,
+body { padding: 0; margin: 0; background-color: #edf1f5; font-family: Arial, Helvetica, sans-serif; }
+a { text-decoration: none; }
+.container { text-align: center; margin: 0 auto; padding: 15px; }
+.note-title { display: block; text-align: left; font-weight: bold; margin-bottom: 5px; text-transform: uppercase; font-size: 11pt; color: #000; }
+.note-text { display: block; text-align: left; color: gray; font-size: 10pt; }
+h2 { font-size: 15pt; }
+.button { display: inline-block; padding: 10px; border-radius: 20px; background-color: #007bff; color: #fff; font-size: 10pt; border: none; text-decoration: none; }
+nav { text-align: center; }
+.note-title { display: block; text-align: left; font-weight: bold; margin-bottom: 5px; text-transform: uppercase; font-size: 11pt; color: #000; }
+.note-text { display: block; text-align: left; color: gray; font-size: 10pt; }
+.note-id { display: block; text-align: left; color: gray; font-size: 8pt; }
+nav button { width: auto; display: inline-block; padding: 10px; border-radius: 20px; background-color: #007bff; color: #fff; font-size: 10pt; border: none; text-decoration: none; cursor: pointer; }
